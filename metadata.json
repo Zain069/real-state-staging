@@ -1,0 +1,7 @@
+{
+  "name": "StageCraft AI",
+  "description": "Hyper-realistic virtual staging for real estate agents. Transform empty rooms into furnished masterpieces in seconds using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
